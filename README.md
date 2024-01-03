@@ -2,7 +2,7 @@
 
 ### Chez Petitbambou
 Je suis en charge de l'API et de l'infrastructure. Nous faisons de notre mieux pour que l'API réponde le plus rapidement possible, cela passe par des optimisations au niveau de notre code mais aussi par un monitoring poussé de notre infrastructure.
-J'ai développé certains outils internes pour simplifier l'utilisation de notre infrastructure ou juste pour s'amuser (et tester de nouvelles technos).
+J'ai développé des outils interne pour simplifier l'utilisation de notre infrastructure ou juste pour s'amuser (et tester de nouvelles technos).
 
 Les technos utilisées :
 - [PHP](https://www.php.net)
