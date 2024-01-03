@@ -7,7 +7,7 @@ J'ai développé des outils interne pour simplifier l'utilisation de notre infra
 Les technos utilisées :
 - [PHP](https://www.php.net)
 - [Symfony](https://symfony.com)
-- [GoLang](go.dev)
+- [GoLang](https://go.dev)
 - Docker
 - MySQL
 - Redis
