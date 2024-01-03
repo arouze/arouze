@@ -1,10 +1,19 @@
-## Bonjour 👋 ! Moi c'est Alex, je suis développeur PHP chez [@PetitBamBou](https://github.com/PetitBamBou)
+## Bonjour 👋 ! Moi c'est Alex, je suis développeur chez [@PetitBamBou](https://github.com/PetitBamBou)
 
-Les technos du moment :
+### Chez Petitbambou
+Je suis en charge de l'API et de l'infrastructure. Nous faisons de notre mieux pour que l'API réponde le plus rapidement possible, cela passe par des optimisations au niveau de notre code mais aussi par un monitoring poussé de notre infrastructure.
+J'ai développé certains outils internes pour simplifier l'utilisation de notre infrastructure ou juste pour s'amuser (et tester de nouvelles technos).
+
+Les technos utilisées :
 - [PHP](https://www.php.net)
 - [Symfony](https://symfony.com)
-- AWS
+- [GoLang](go.dev)
+- Docker
 - MySQL
 - Redis
 - NodeJS
-- Rust
+
+### Projets perso : 
+
+- [Immo-globine](https://immo-globine.fr/) : Un moteur de recherche de parcelles de terrain, permettant de simplifier l'OSINT sur les biens immobiliers.
+- [Clinique Equine de Provence](https://clinique-equine-provence.fr/) : Développement, Intégration & Monitoring du site de la Clinique Equine de Provence de Saint-Cannat.
