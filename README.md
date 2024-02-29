@@ -17,3 +17,4 @@ Les technos utilisées :
 
 - [Immo-globine](https://immo-globine.fr/) : Un moteur de recherche de parcelles de terrain, permettant de simplifier l'OSINT sur les biens immobiliers.
 - [Clinique Equine de Provence](https://clinique-equine-provence.fr/) : Développement, Intégration & Monitoring du site de la Clinique Equine de Provence de Saint-Cannat.
+- [Slack Message Builder](https://github.com/arouze/slack-message-builder) : Un [builder](https://refactoring.guru/design-patterns/builder) de message Slack.
