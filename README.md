@@ -7,7 +7,7 @@ J'ai développé des outils interne pour simplifier l'utilisation de notre infra
 Les technos utilisées :
 - [PHP](https://www.php.net)
 - [Symfony](https://symfony.com)
-- [Rust](https://rust-lang.org/)
+- Go
 - Docker
 - Ansible
 - Base de données : MariaDb, Redis, MongoDb, ClickHouse
